@@ -1,5 +1,3 @@
-google-site-verification=_HQ8ZAhGorzZvulE-802oqDkCnAtEr9JMuHO_02wPtI
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/karlottejr/heinzservice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

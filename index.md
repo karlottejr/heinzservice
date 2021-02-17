@@ -9,5 +9,4 @@ Soluções em Cloud AWS, Azure, GCP.
 
 ### Contato
 
-Entre em contato conosco pelo e-mail
-mailto:contato@heinzservice.com.br
+Entre em contato conosco pelo e-mail (mailto:contato@heinzservice.com.br)
